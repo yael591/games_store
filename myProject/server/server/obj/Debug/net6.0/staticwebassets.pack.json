@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\server\\server\\wwwroot\\game1.jpg",
+      "PackagePath": "staticwebassets\\game1.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\game2.jpg",
+      "PackagePath": "staticwebassets\\game2.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\game3.jpg",
+      "PackagePath": "staticwebassets\\game3.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\game4.jpg",
+      "PackagePath": "staticwebassets\\game4.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic10.jpg",
+      "PackagePath": "staticwebassets\\pic10.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic11.jpg",
+      "PackagePath": "staticwebassets\\pic11.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic12.jpg",
+      "PackagePath": "staticwebassets\\pic12.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic13.jpg",
+      "PackagePath": "staticwebassets\\pic13.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic14.png",
+      "PackagePath": "staticwebassets\\pic14.png"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic20.jpg.webp",
+      "PackagePath": "staticwebassets\\pic20.jpg.webp"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic20.webp",
+      "PackagePath": "staticwebassets\\pic20.webp"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic6.jpg",
+      "PackagePath": "staticwebassets\\pic6.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic8.jpg",
+      "PackagePath": "staticwebassets\\pic8.jpg"
+    },
+    {
+      "Id": "C:\\server\\server\\wwwroot\\pic9.jpg",
+      "PackagePath": "staticwebassets\\pic9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.server.props",
+      "PackagePath": "build\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.server.props",
+      "PackagePath": "buildMultiTargeting\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.server.props",
+      "PackagePath": "buildTransitive\\server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
