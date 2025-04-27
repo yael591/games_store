@@ -1,0 +1,14 @@
+wwwroot\game1.jpg
+wwwroot\game2.jpg
+wwwroot\game3.jpg
+wwwroot\game4.jpg
+wwwroot\pic10.jpg
+wwwroot\pic11.jpg
+wwwroot\pic12.jpg
+wwwroot\pic13.jpg
+wwwroot\pic14.png
+wwwroot\pic20.jpg.webp
+wwwroot\pic20.webp
+wwwroot\pic6.jpg
+wwwroot\pic8.jpg
+wwwroot\pic9.jpg
